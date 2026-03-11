@@ -1,7 +1,7 @@
 # Serverless Cloud Dictionary Application
 
 ### Project Overview:
-In this project, we'll be developing a serverless cloud dictionary application where users can:
+In this project, I'll be developing a serverless cloud dictionary application where users can:
 
 * Search for terms related to cloud technologies.
 * View the definitions of cloud terms.
@@ -21,7 +21,6 @@ The frontend, a React application, will be hosted on AWS Amplify, and API reques
 <img width="1381" height="541" alt="image" src="https://github.com/user-attachments/assets/56a6c9b2-dece-49dc-ad62-29848fa59418" />
 
 ### Steps to be performed:
-In the next few lessons, we'll be going through the following steps.
 
 * Setup frontend and host it on AWS Amplify
 * Configure DynamoDB to store Cloud Definitions
